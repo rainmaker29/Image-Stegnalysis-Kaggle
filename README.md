@@ -3,7 +3,7 @@ My Submission to Kaggle's Image Stegnalysis Competition
 
 The task is to identify if there's a hidden message in the image.
 
-The data is a set of images each of which has 4 copies of each :
+The data is a set of images each of which has 1 copy of :
 <ol>
   <li> No hidden message </li>
   <li> Applied JMiPOD </li>
