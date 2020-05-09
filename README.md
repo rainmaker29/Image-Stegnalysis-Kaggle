@@ -11,12 +11,13 @@ The data is a set of images each of which has 1 copy of :
   <li> Applied UERD </li>
 </ol>
 
-Efficient Net was built and trained on TPUs to achieve a public score of 0.764
+Efficient Net was used and trained on TPUs to achieve a public score of 0.764
 
 References :
 <ol>
   <li> <a href="https://www.kaggle.com/c/alaska2-image-steganalysis/"> Competition </a></li>
   <li> <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=2ahUKEwiyxJucmqbpAhVq6nMBHa9vDmYQFjABegQIARAB&url=https%3A%2F%2Fwww.kaggle.com%2Fc%2Falaska2-image-steganalysis%2Fdiscussion%2F146950&usg=AOvVaw0BWlGycUNGbxH7Z4Ch2uTH"> Steganography Algorithms  </a> </li>
   <li><a href="https://www.kaggle.com/c/alaska2-image-steganalysis/data"> Dataset </a></li>
+  <li> <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjAjqrQm6bpAhVB7XMBHY05BcMQFjAAegQIARAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1905.11946&usg=AOvVaw2lM48jIEZJ5DE6BQa54cPL"> EfficientNet </a></li>
 </ol>
   
